@@ -1,0 +1,16 @@
+body {
+    background-color: #DBF9FC;
+    }
+
+body{
+        color: black;
+        font:  italic 1.2em "Fira Sans", serif; 
+    }
+
+.jumbotron {
+    background-image: url("navel.jpg");
+    background-size: 100% 100%;
+    text-align: center;
+  }
+
+  
